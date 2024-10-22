@@ -24,7 +24,10 @@ public class FullNameApplication {
 
         if (!middleName.isEmpty()) {
             fullname = fullname + " " + middleName;
+
+
         }
+
 
 
         if (!lastName.isEmpty()) {
