@@ -1,7 +1,7 @@
 package com.pluralsight;
 
 
-    public class Person implements Comparable {
+    public class Person implements Comparable<Person> {
         private String firstName;
         private String lastName;
         private int age;
@@ -31,5 +31,12 @@ package com.pluralsight;
                     ", lastName='" + lastName + '\'' +
                     ", age=" + age +
                     '}';
+        }
+
+
+
+        @Override
+        public int compareTo(Person o) {
+            compareTo()
         }
     }
