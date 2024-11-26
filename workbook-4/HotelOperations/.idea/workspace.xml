@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365aa3e3-b81d-42ba-a987-d3ccaaee4228" name="Changes" comment="" />
+    <list default="true" id="365aa3e3-b81d-42ba-a987-d3ccaaee4228" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../workbook-2/deneme/src/main/java/com/pluralsight/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-2/deneme/src/main/java/com/pluralsight/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workbook-6/Stream/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-6/Stream/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workbook-6/Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-6/Stream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workbook-6/Stream/src/main/java/com/pluralsight/stream/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-6/Stream/src/main/java/com/pluralsight/stream/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

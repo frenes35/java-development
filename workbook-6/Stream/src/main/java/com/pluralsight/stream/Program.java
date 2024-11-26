@@ -1,6 +1,8 @@
 package com.pluralsight.stream;
 
-import java.util.ArrayList;
+com.pluralsight.stream;
+
+importpackage java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -48,5 +50,5 @@ public class Program {
 
 
 
-    
+
 
